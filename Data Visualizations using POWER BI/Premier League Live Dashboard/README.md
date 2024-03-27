@@ -17,7 +17,7 @@ The Premier League Live Dashboard offers a dynamic and interactive platform for 
 - **League Standings**: Stay informed about the latest league standings, including points, goal difference, and position changes.
   
 -**Match Analysis**: Access in-depth analysis and commentary on match highlights, tactics, key moments, and player performances.
- <img src="/Premier League Live Dashboard/Premier League Dashboard.png" alt="Premier League Dashboard">
+ <img src="[/Premier League Live Dashboard/Premier League Dashboard.png](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Premier%20League%20Live%20Dashboard/Premier%20League%20Dashboard.png)" alt="Premier League Dashboard">
 
 ## Technologies Used
 
