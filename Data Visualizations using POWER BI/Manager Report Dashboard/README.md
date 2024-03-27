@@ -14,7 +14,7 @@ The Manager Report Dashboard serves as a centralized platform for managers to mo
 
 - **Microsoft Power BI**: Dashboard development and data visualization.
   
-- **Microsoft Excel**: Integration with pet shelter databases to fetch and analyze relevant data.
+- **Microsoft Excel**: Integration with KPI's relational databasess to fetch and analyze relevant data.
   
 - **Data Visualization**: Utilization of Power BI's visualization capabilities to create dynamic and interactive reports and dashboards.
   
