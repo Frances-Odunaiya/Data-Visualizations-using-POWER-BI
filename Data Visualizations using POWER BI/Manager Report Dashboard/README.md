@@ -29,6 +29,6 @@ Contributions to this project are welcome! Whether you want to add new features,
 
 If you have any questions, feedback, or suggestions for improvement, feel free to open an issue or reach out to me. Your feedback is valuable and helps us improve the Manager Report Dashboard for all users.
 
-# Empower managers with actionable insights and enhance decision-making with the Manager Report Dashboard!
+# Empower managers with actionable insights and enhance decision-making with the Manager Report Dashboard!😁
 
 
