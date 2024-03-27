@@ -24,7 +24,7 @@ The Pet Shelter Report Dashboard offers a comprehensive tool for the marketing t
 
 To explore the Pet Shelter Report Dashboard: --> [Go to PowerBI Dashboard..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Premier%20League%20Live%20Dashboard/PREMIER%20LEAGUE%20LIVE%20DASHBOARD.pbix)
 
-<img src = "https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Pet%20Shelter%20Report%20Dasboard%20for%20Marketing%20Team_Power%20Up%20Challenge/pets_shelter.png" alt = "Pets Shelter" width = "150px" height = "200px">
+<img src = "https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Pet%20Shelter%20Report%20Dasboard%20for%20Marketing%20Team_Power%20Up%20Challenge/pets_shelter.png" alt = "Pets Shelter" width = "600px" height = "300px">
 
 Access the Power BI dashboard through the provided link or download the Power BI file to your local machine.
 
